@@ -7,8 +7,7 @@ h1 {
 body{
   background: linear-gradient(to bottom, #403D58, #7221B0, #2B409B);
 }
-img{
-  border:solid 10px #046865}
+
 
    img:hover{
      border:solid 10px black
