@@ -1,0 +1,8 @@
+ nav{
+  list-style-type: none; 
+  position:fixed;
+    background-color:yellow;
+  top:0;
+  
+  left:0;
+}
