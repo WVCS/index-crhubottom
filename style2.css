@@ -1,0 +1,37 @@
+nav{
+  list-style-type: none; 
+  position:fixed;
+    background-color:purple;
+  top:0;
+  
+  left:0;
+}
+li{
+  display:inline;
+  padding:20px;
+  
+}
+li:hover{
+  background-color:gold;
+}
+  a{
+    text-decoration:none;
+    
+}
+table,th,td,tr{
+  border: dashed red 2px;
+  border-collapse:collapse;
+  padding: 10px;
+}
+body{
+  background: linear-gradient(to left, darkred, white, blue);
+}
+tr:nth-child(even){
+  background-color: gray;
+}
+tr:nth-child(odd){
+  background-color: purple;
+}
+td:hover{
+  background-color:gold;
+}
